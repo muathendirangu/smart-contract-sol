@@ -1,1 +1,1 @@
-# smart-contract-sol
+# smart contracts written in solidity
