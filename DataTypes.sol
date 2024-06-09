@@ -23,7 +23,8 @@ contract DataTypes {
     // fixed size array
     bool[3] public fixedSizeBoolArray = [true, false, true];
     uint[5] public fixedSizeDataArray = [1, 2, 3, 4, 5];
-    address[2] public fixedSizeUserAddressArray = [0x742d35Cc6634C0532925a3b844Bc454e4438f44e, 0x0000000000000000000000000000000000000000];
+    address[2] public fixedSizeUserAddressArray = [0x742d35Cc6634C0532925a3b844Bc454e4438f44e,
+     0x0000000000000000000000000000000000000000];
 
     // enum
     enum Nationality {
